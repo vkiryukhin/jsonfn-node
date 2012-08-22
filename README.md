@@ -2,7 +2,7 @@
 
 nodejs plugin to convert **object with functions** to string and string to object.
 
-**Version** - 0.3.00
+**Version** - 0.30.0
 
 **Copyright** (c) 2012 Vadim Kiryukhin ( vkiryukhin @ gmail.com )
 
