@@ -13,16 +13,16 @@
 *
 *   USAGE:
 * 
-*   require('../jsonfn').JSONfn.stringify(obj);
-*	require('../jsonfn').JSONfn.parse(str);
+*   require('jsonfn').JSONfn.stringify(obj);
+*	require('jsonfn').JSONfn.parse(str);
 *
 *        @obj   -  javascript object;
 *		 @strfn -  String in JSON format; 
 *
 *   Examples:
 *		
-*   var strfn = require('../jsonfn').JSONfn.stringify(obj);
-*	var objfn = require('../jsonfn').JSONfn.parse(strfn);
+*   var strfn = require('jsonfn').JSONfn.stringify(obj);
+*	var objfn = require('jsonfn').JSONfn.parse(strfn);
 *
 */
 

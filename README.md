@@ -30,9 +30,9 @@ the MIT and GPL licenses:
 
 **USAGE:**
 
-`var strfn  = require('../jsonfn').JSONfn.stringify(obj);`
+`var strfn  = require('jsonfn').JSONfn.stringify(obj);`
 
-`var objfn = require('../jsonfn').JSONfn.parse(strfn);`
+`var objfn = require('jsonfn').JSONfn.parse(strfn);`
 
 
 
