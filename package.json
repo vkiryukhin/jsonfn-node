@@ -1,0 +1,28 @@
+{
+  "name": "jsonfn",
+  "version": "0.3.00",
+  "author": "Vadim Kiryukhin <vkiryukhin@gmail.com>",
+  "description": plugin to convert javascript objects with functions to string and vise versa.",
+  "contributors": [ 
+    {
+      "name": "Vadim Kiryukhin",
+      "email": "vkiryukhin@gmail.com"
+    } 
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/vkiryukhin/jsonfn-node.git"
+  },
+  "main":"./jsonfn",
+  "keywords": [
+	"object to string",
+	"object2string",
+	"obj2str",
+	"object with function",
+    "object with functions"
+  ],
+  "license": "MIT",
+  "engine": {
+    "node": ">=0.4.9"
+  }
+}
