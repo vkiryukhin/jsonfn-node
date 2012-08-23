@@ -2,7 +2,7 @@
 * JSONfn - javascript plugin to convert javascript objects, ( including ones with functions ) 
 * to string and vise versa.
 *  
-* Version - 0.30.0
+* Version - 0.31.0
 * Copyright (c) 2012 Vadim Kiryukhin
 * vkiryukhin @ gmail.com
 * http://www.eslinstructor.net/jsonfn/
